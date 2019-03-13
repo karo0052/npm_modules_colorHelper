@@ -1,0 +1,22 @@
+{
+  "name": "npm_modules_color_helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karo0052/npm_modules_colorHelper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karo0052/npm_modules_colorHelper/issues"
+  },
+  "homepage": "https://github.com/karo0052/npm_modules_colorHelper#readme",
+  "dependencies": {
+    "tinycolor2": "^1.4.1"
+  }
+}
