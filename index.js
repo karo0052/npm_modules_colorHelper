@@ -85,3 +85,9 @@ document.querySelector(".rgb").innerHTML = `RGB: ${rgbColor}`;
 //toHsvString()
 const hslColor = colorHelper(randomColor).toHslString();
 document.querySelector(".hsl").innerHTML = `HSL: ${hslColor}`;
+
+/* To read the full documentation of the TinyColor module:
+
+https://github.com/bgrins/TinyColor/blob/master/README.md 
+
+*/
